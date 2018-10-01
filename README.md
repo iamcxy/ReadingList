@@ -2,8 +2,6 @@
 
 ### To Read
 * [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](https://www.amazon.ca/dp/B00KVI76ZS/ref=wl_it_dp_o_pd_nS_ttl?_encoding=UTF8&colid=8L6QDAYFPPGE&coliid=I1C8S1BDZOBXD0)
-* [The Effective Engineer: How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful Impact](https://www.amazon.ca/dp/0996128107/ref=wl_it_dp_o_pd_nS_ttl?_encoding=UTF8&colid=8L6QDAYFPPGE&coliid=I3UQB2ZM5OPUG7)
-* [Zero to One: Notes on Startups, or How to Build the Future](https://www.amazon.ca/dp/0804139296/ref=wl_it_dp_o_pd_nS_ttl?_encoding=UTF8&colid=8L6QDAYFPPGE&coliid=I9OEJDRZMCWH9)
 * [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.amazon.ca/dp/B00AZRBLHO/ref=wl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=8L6QDAYFPPGE&coliid=IL0IDYJQFNO7Y)
 * [The Martian: A Novel](https://www.amazon.ca/dp/B00EMXBDMA/ref=wl_it_dp_o_pd_nS_ttl?_encoding=UTF8&colid=8L6QDAYFPPGE&coliid=I2E0CWUOQS89UL)
 * [The Hitchhiker's Guide to the Galaxy](https://www.amazon.ca/Hitchhikers-Guide-Galaxy-Trilogy-Four/dp/0330492047/ref=sr_1_1?ie=UTF8&qid=1488822293&sr=8-1&keywords=hitchhikers+guide+to+the+galaxy)
@@ -17,3 +15,5 @@
 * [Steve Jobs](https://www.amazon.ca/Steve-Jobs-Walter-Isaacson-ebook/dp/B004W2UBYW/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1488689834&sr=1-1&keywords=steve+jobs) 
 * [Ivan Ramen: Love, Obsession, and Recipes from Tokyo's Most Unlikely Noodle Joint](https://www.amazon.ca/dp/1607744465/ref=wl_it_dp_o_pC_S_ttl?_encoding=UTF8&colid=8L6QDAYFPPGE&coliid=I1320ZJWQTQJ6P)
 * [Momofuku](https://www.amazon.ca/dp/030745195X/ref=wl_it_dp_o_pd_nS_ttl?_encoding=UTF8&colid=8L6QDAYFPPGE&coliid=I3KVLIKAAQYX6Y) 
+* [Zero to One: Notes on Startups, or How to Build the Future](https://www.amazon.ca/dp/0804139296/ref=wl_it_dp_o_pd_nS_ttl?_encoding=UTF8&colid=8L6QDAYFPPGE&coliid=I9OEJDRZMCWH9)
+* [The Effective Engineer: How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful Impact](https://www.amazon.ca/dp/0996128107/ref=wl_it_dp_o_pd_nS_ttl?_encoding=UTF8&colid=8L6QDAYFPPGE&coliid=I3UQB2ZM5OPUG7)
